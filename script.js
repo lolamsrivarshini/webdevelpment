@@ -3,21 +3,21 @@ const products = [
         name: "Mango",
         code: "P001",
         image: "mango.jpg",
-        description: "This is the description for Product 1.",
+        description: "This is Mango fruit Summer special in India.",
         price: "$10.00"
     },
     {
         name: "Apple",
         code: "P002",
         image: "apple.jpg",
-        description: "This is the description for Product 2.",
+        description: "Apple is for all ages.",
         price: "$20.00"
     },
     {
         name: "Orange",
         code: "P003",
         image: "orange.jpg",
-        description: "This is the description for Product 3.",
+        description: "Full of Vitamin C.",
         price: "$30.00"
     }
 ];
