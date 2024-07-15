@@ -1,22 +1,22 @@
 const products = [
     {
-        name: "Product 1",
+        name: "Mango",
         code: "P001",
-        image: "images/product1.jpg",
+        image: "mango.jpg",
         description: "This is the description for Product 1.",
         price: "$10.00"
     },
     {
-        name: "Product 2",
+        name: "Apple",
         code: "P002",
-        image: "images/product2.jpg",
+        image: "apple.jpg",
         description: "This is the description for Product 2.",
         price: "$20.00"
     },
     {
-        name: "Product 3",
+        name: "Orange",
         code: "P003",
-        image: "images/product3.jpg",
+        image: "orange.jpg",
         description: "This is the description for Product 3.",
         price: "$30.00"
     }
